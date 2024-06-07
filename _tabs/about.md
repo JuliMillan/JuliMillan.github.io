@@ -14,7 +14,7 @@ I am a [zoologist](https://www.fcnym.unlp.edu.ar/grado/carreras/licenciatura-en-
 
 For the last few years I have been working as a data scientist, both in research and private companies.
 
-## Some stuff that I love
+## Some stuff I like
    - **Learning new things and implementing them!** - The more practical the better. I love to play around with new topics (like practicing how to make a *github page*, implementing model tracking with *Mlflow* or learning *AWS Cloud architecture*).
    - **Nature tech** - Using technology to solve real and urgent problems, like climate change and biodiversity loss.
    - **Open science** - I am very concerned about the current state of the academic system and how knowledge is being built, and I think we need to make a deep shift to make it work. I believe open knowledge is the way to do this. Even though I know the steps and details to get there are not clear, I want to work towards building a better system where science is really a way to create knowledge for ***all*** of us.
