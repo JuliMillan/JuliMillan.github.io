@@ -1,10 +1,12 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 1
+order: 
 ---
 
-> Site under construction!{: .prompt-warning }
+> Site under construction
+{: .warning-tip }
 
 # Hey! Hola!
+
 
