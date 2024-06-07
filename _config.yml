@@ -9,14 +9,14 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: America/Argentina/Buenos_Aires
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Julieta Millan # the main title
 
-tagline: persona website to share some fun stuff # it will display as the sub-title
+tagline: (under construction) personal website to share some stuff - Español/English # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   data science, blog, open science, machine learning, Julieta Millan, climate change
