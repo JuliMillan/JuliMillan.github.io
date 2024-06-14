@@ -45,7 +45,7 @@ I only did a few changes:
 
 
 ## And I guess that is pretty much it!
-Not to easy, not to hard. But sure it was fun!
+Not too easy, not too hard. But sure it was fun!
 
 
 
