@@ -180,11 +180,11 @@ biodiversity conservation.
 I did my PhD research about the molecular mechanisms of learning and memory in mice. Droped out of the program after 6 years.
 
 *Peer reviewed publications* ([ORCID](https://orcid.org/0000-0002-2143-9384){:target="_blank"})
- - Oxytocin-Cholinergic Central Interaction: Implications for Non-Social Memory Formation. Neuroscience, 2022. DOI: [10.1016/j.neuroscience.2022.06.028](10.1016/j.neuroscience.2022.06.028){:target="_blank"}
- - Role of prediction error and the cholinergic system on memory reconsolidation processes in mice. Neurobiology of Learning and Memory, 2021. DOI: [10.1016/j.nlm.2021.107534](10.1016/j.nlm.2021.107534){:target="_blank"}
- - Critical role of hippocampal muscarinic acetylcholine receptors on memory reconsolidation in mice. Neurobiology of Learning and Memory, 2021. DOI: [10.1016/j.nlm.2020.107360](10.1016/j.nlm.2020.107360){:target="_blank"}
- - Relevance of ERK1/2 Post-retrieval Participation on Memory Processes: Insights in Their Particular Role on Reconsolidation and Persistence of Memories. Frontiers in Molecular Neuroscience, 2019. DOI: [10.3389/fnmol.2019.00095](10.3389/fnmol.2019.00095){:target="_blank"}
- - APP/Go protein Gβγ-complex signaling mediates Aβ degeneration and cognitive impairment in Alzheimer's disease models. Neurobiology of Aging, 2018. DOI: [10.1016/j.neurobiolaging.2017.12.013](10.1016/j.neurobiolaging.2017.12.013){:target="_blank"}
+ - Oxytocin-Cholinergic Central Interaction: Implications for Non-Social Memory Formation. Neuroscience, 2022. DOI: [10.1016/j.neuroscience.2022.06.028](https://www.sciencedirect.com/science/article/abs/pii/S0306452222003207){:target="_blank"}
+ - Role of prediction error and the cholinergic system on memory reconsolidation processes in mice. Neurobiology of Learning and Memory, 2021. DOI: [10.1016/j.nlm.2021.107534](https://www.sciencedirect.com/science/article/abs/pii/S1074742721001568){:target="_blank"}
+ - Critical role of hippocampal muscarinic acetylcholine receptors on memory reconsolidation in mice. Neurobiology of Learning and Memory, 2021. DOI: [10.1016/j.nlm.2020.107360](https://www.sciencedirect.com/science/article/abs/pii/S1074742720302045){:target="_blank"}
+ - Relevance of ERK1/2 Post-retrieval Participation on Memory Processes: Insights in Their Particular Role on Reconsolidation and Persistence of Memories. Frontiers in Molecular Neuroscience, 2019. DOI: [10.3389/fnmol.2019.00095](https://www.frontiersin.org/articles/10.3389/fnmol.2019.00095/full){:target="_blank"}
+ - APP/Go protein Gβγ-complex signaling mediates Aβ degeneration and cognitive impairment in Alzheimer's disease models. Neurobiology of Aging, 2018. DOI: [10.1016/j.neurobiolaging.2017.12.013](https://www.sciencedirect.com/science/article/abs/pii/S0197458017304086){:target="_blank"}
 
 #### <span style="color:#ccf2ff;"> **Bachelor in biology, oriented in zoology**
 [**Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata**](https://www.fcnym.unlp.edu.ar/){:target="_blank"}. *2010 - 2017*.
