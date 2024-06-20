@@ -7,7 +7,7 @@ order: 1
 > Site under construction
 {: .prompt-warning }
 # Hey! Hola!
-<span style="color:#ffcccc;">
+<span style="color:#ff339f;">
 My name is Julieta, I am from Argentina.
 
 <span style="color:#ffcccc;">
