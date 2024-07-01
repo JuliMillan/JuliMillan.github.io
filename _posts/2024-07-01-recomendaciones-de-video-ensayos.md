@@ -7,6 +7,7 @@ tags: [es]
 
 > Para inaugurar la parte en español del blog, les cuento qué video-ensayos vi durante la semana pasada. Soy muy fan de los video-ensayos y siempre me quedo con ganas de compartir lo que veo, así que acá va.
 
+
 Los dos primeros siguen una temática común que llamaré “El capitalismo rompe todo lo que toca”.
 
 ## 1- Mina Le sobre porqué los muebles hoy en día son una porquería (why is all forniture the same now?)
