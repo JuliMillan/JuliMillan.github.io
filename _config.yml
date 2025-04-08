@@ -28,8 +28,8 @@ url: "https://JuliMillan.github.io"
 github:
   username: JuliMillan # change to your github username
 
-twitter:
-  username: jujumillan # change to your twitter username
+bluesky:
+  username: julimillan # change to your twitter username
 
 linkedin:
   username: julieta-millan # change to your twitter username
@@ -41,7 +41,7 @@ social:
   # email: # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://x.com/username # change to your twitter homepage
+    #- https://x.com/username # change to your twitter homepage
     - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -99,7 +99,7 @@ theme_mode: [dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pbs.twimg.com/profile_images/1797741548567769088/G8i02Pcb_400x400.jpg
+avatar: https://avatars.githubusercontent.com/u/66881995?v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
