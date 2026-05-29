@@ -192,27 +192,27 @@ I did my PhD research about the molecular mechanisms of learning and memory in m
  - Relevance of ERK1/2 Post-retrieval Participation on Memory Processes: Insights in Their Particular Role on Reconsolidation and Persistence of Memories. Frontiers in Molecular Neuroscience, 2019. DOI: [10.3389/fnmol.2019.00095](https://www.frontiersin.org/articles/10.3389/fnmol.2019.00095/full){:target="_blank"}
  - APP/Go protein Gβγ-complex signaling mediates Aβ degeneration and cognitive impairment in Alzheimer's disease models. Neurobiology of Aging, 2018. DOI: [10.1016/j.neurobiolaging.2017.12.013](https://www.sciencedirect.com/science/article/abs/pii/S0197458017304086){:target="_blank"}
 
-#### <span style="color:#ff7597;"> **Bachelor in biology, oriented in zoology**
+#### <span style="color:#8fbc8f;"> **Bachelor in biology, oriented in zoology**
 [**Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata**](https://www.fcnym.unlp.edu.ar/){:target="_blank"}. *2010 - 2017*.
 
 ---
 
-### <span style="color:#ff7597;"> **Short Course Certifications**
-#### <span style="color:#ff7597;"> **Neuromatch Academy - Deep Learning**. 2021
+### <span style="color:#8fbc8f;"> **Short Course Certifications**
+#### <span style="color:#8fbc8f;"> **Neuromatch Academy - Deep Learning**. 2021
 Three week intensive course on deep learning applied to neuroscience by [Neuromatch Academy](https://neuromatch.io/neuroscience/){:target="_blank"}.
  - [Certification](https://portal.neuromatchacademy.org/certificate/657f66bf-31c0-4926-95ac-4f5b051930d4){:target="_blank"}
 
-#### <span style="color:#ff7597;"> **Climatematch Academy**. 2023
+#### <span style="color:#8fbc8f;"> **Climatematch Academy**. 2023
 Three week intensive course on computational tools for climate science by [Neuromatch Academy](https://neuromatch.io/computational-tools-for-climate-science-course/){:target="_blank"}.
  - [Certification](https://portal.neuromatchacademy.org/certificate/f281895d-5622-4d0b-a2e4-3afbeca71542){:target="_blank"}
 
-#### <span style="color:#ff7597;"> **NASA Open Science**. 2024
+#### <span style="color:#8fbc8f;"> **NASA Open Science**. 2024
 Online course about Open Science by [NASA](https://nasa.github.io/Transform-to-Open-Science/){:target="_blank"}.
  - [Certification](https://www.credly.com/badges/d0e9792a-2d47-4f3c-b167-ccd2ba7aa26f){:target="_blank"}
 
-#### <span style="color:#ff7597;"> **AWS Cloud Quest: Cloud Practitioner**. 2024
+#### <span style="color:#8fbc8f;"> **AWS Cloud Quest: Cloud Practitioner**. 2024
  - [Certification](https://www.credly.com/badges/cd71245a-875d-47bf-b5f3-8d86d46984eb){:target="_blank"}
 
 
-#### <span style="color:#ff7597;"> **AWS Academy Graduate - AWS Academy Cloud Foundations**. 2024
+#### <span style="color:#8fbc8f;"> **AWS Academy Graduate - AWS Academy Cloud Foundations**. 2024
  - [Certification](https://www.credly.com/badges/ba6af524-1573-4774-ae2b-d064779401f0){:target="_blank"}
