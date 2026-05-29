@@ -4,9 +4,7 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-> Site under construction
-{: .prompt-warning }
-#  <span style="color:#ff7597;"> Hey! Hola!
+#  <span style="color:#8fbc8f;"> Hey! Hola!
 My name is Julieta, I am from Argentina.
 
 I am a [zoologist](https://www.fcnym.unlp.edu.ar/grado/carreras/licenciatura-en-biologia-orientacion-zoologia/){:target="_blank"} from the [Universidad Nacional de La Plata](https://unlp.edu.ar/){:target="_blank"}.
@@ -19,16 +17,16 @@ I love to play Dungeons and Dragons and videogames, walk, watch movies and sew m
 
 ---
 
-## <span style="color:#ff7597;"> Some stuff I like
+## <span style="color:#8fbc8f;"> Some stuff I like
 
    - **Learning new things and implementing them!** - The more practical the better. I love to play around with new topics (like practicing how to make a *github page*, implementing model tracking with *Mlflow* or learning *AWS Cloud architecture*).
    - **Nature tech** - Using technology to solve real and urgent problems, like climate change and biodiversity loss.
    - **Open science** - I am very concerned about the current state of the academic system and how knowledge is being built, and I think we need to make a deep shift to make it work. I believe open knowledge is the way to do this. Even though I know the steps and details to get there are not clear, I want to work towards building a better system where science is really a way to create knowledge for ***all*** of us.
 
 
-## <span style="color:#ff7597;"> Some stuff that I'm proud of
- - **Being part of the [csv,conf](https://csvconf.com/){:target="_blank"} organization** - Since 2022 I've been a part of the organising team and I've helped with v7, in Buenos Aires, Argentina, and v8, in Puebla, México. It's hard work but sooo worth it.
- - **Being the [Open Knowledge Network](https://okfn.org/en/network/){:target="_blank"} Latin American Hub Coordinator** - Recently I started a new temporal role as [Regional Coordinator for the Latinamerican Hub](https://blog.okfn.org/2024/04/24/open-knowledge-network-introducing-the-regional-hubs-prototype-programme/){:target="_blank"} of the OKFN as a part of a prototype project that tries to decentralize the community and make sure each region can focus on the issues they're facing and speaking their own language.
+## <span style="color:#8fbc8f;"> Some stuff that I'm proud of
+ - **Being part of the [csv,conf](https://csvconf.com/){:target="_blank"} organization** - Since 2022 I've been a part of the organising team and I've helped with v7, in Buenos Aires, Argentina, v8, in Puebla, México, and v9 in Bologna, Italy. It's hard work but sooo worth it.
+ - **Having been the [Open Knowledge Network](https://okfn.org/en/network/){:target="_blank"} Latin American Hub Coordinator** - For a year I was the [Regional Coordinator for the Latinamerican Hub](https://blog.okfn.org/2024/04/24/open-knowledge-network-introducing-the-regional-hubs-prototype-programme/){:target="_blank"} of the OKFN as a part of a prototype project that tried to decentralize the community and make sure each region can focus on the issues they're facing and speaking their own language.
  - **Leading a team during the 2023 UN Datathon** - We worked in a very cool project we called "Monitoring Land Use in Biodiversity Hotspots Affected by Forest Loss". You can find part of the work [here](https://github.com/JuliMillan/UN-Datathon-2023){:target="_blank"}.
 
 ---
@@ -37,9 +35,21 @@ I love to play Dungeons and Dragons and videogames, walk, watch movies and sew m
 
 ---
 
-### <span style="color:#ff7597;"> **Experience**
-#### <span style="color:#ff7597;"> **Open Knowledge Network Latin American Hub Coordinator**
-[**Open Knowledge Foundation**](https://www.okfn.org/en/){:target="_blank"}. *April 2024 - ongoing*.
+### <span style="color:#8fbc8f;"> **Experience**
+#### <span style="color:#8fbc8f;"> **Data Scientist/Graph Data Scientist**
+Chevron. *January 2025 - ongoing*.
+
+I work mostly with LLMs and Knowledge Graphs, extracting information from unstructured data and combining that with Ontologies to improve search engines.
+
+Tools
+- Python
+- LLMs
+- Neo4j
+- Cypher
+- RDF, RDFS, Turtle
+
+#### <span style="color:#8fbc8f;"> **Open Knowledge Network Latin American Hub Coordinator**
+[**Open Knowledge Foundation**](https://www.okfn.org/en/){:target="_blank"}. *April 2024 - March 2025*.
 
 The Open Knowledge Foundation (OKFN) is the world’s ultimate reference in open digital infrastructures and the hub of the open movement.
 
@@ -49,7 +59,7 @@ Role
 
 You can read more about this Prototype Programme [here](https://blog.okfn.org/2024/04/24/open-knowledge-network-introducing-the-regional-hubs-prototype-programme/){:target="_blank"}.
 
-#### <span style="color:#ff7597;"> **Collaborator at Proyecto Polen**
+#### <span style="color:#8fbc8f;"> **Collaborator at Proyecto Polen**
 [**MetaDocencia**](https://www.metadocencia.org/){:target="_blank"}. *November 2023 - ongoing*.
 
 MetaDocencia's mission is to build scientific and technical capacities in a responsable way and with a local focus through the co-creation of networks, learning spaces and accessible resources to spanish-speaking communities.
@@ -62,10 +72,10 @@ Role
 Tools
  - Crowdin
 
-#### <span style="color:#ff7597;"> **Ssr. Data Scientist**
-[**Aeropuertos Argentina**](https://www.aeropuertosargentina.com/){:target="_blank"}. *October 2023 - ongoing*.
+#### <span style="color:#8fbc8f;"> **Data Scientist**
+[**Aeropuertos Argentina**](https://www.aeropuertosargentina.com/){:target="_blank"}. *October 2023 - January 2025*.
 
-I participate in, and lead, multiple projects at several argentinean airports like product categorisation, price increase alerts, sales predictions and bird control projects.
+I participated in, and lead, multiple projects at several argentinean airports like product categorisation, price increase alerts, sales predictions and bird control projects.
 
 Role
  - I do data extraction, processing and analysis
@@ -82,7 +92,7 @@ Tools
  - Optuna
  - Mlflow
 
-#### <span style="color:#ff7597;"> **Ssr. Data Scientist**
+#### <span style="color:#8fbc8f;"> **Ssr. Data Scientist**
 [**Analytics Town**](https://www.analyticstown.com/){:target="_blank"}. *October 2022 - September 2023*.
 
 Analytics Town is a consulting agency where I worked fully for NaranjaX, an argentinean fintech, focused on projects like sales and payment predictions, sales rejections and more.
@@ -100,7 +110,7 @@ Tools
  - Jira
  - GitLab
 
-#### <span style="color:#ff7597;"> **Data Scientist/Analyst**
+#### <span style="color:#8fbc8f;"> **Data Scientist/Analyst**
 [**Proyecto ARPHAI**](https://www.ciecti.org.ar/arphai/){:target="_blank"}. *December 2021 - September 2022*.
 
 Argentinean Public Research on Data Science and Artificial Intelligence for Epidemic Prevention. Public project funded the International Development Research Center (Canada) and Swedish Onternational Development Cooperation Agency.
@@ -117,33 +127,33 @@ Tools
 
 ---
 
-### <span style="color:#ff7597;"> **Teaching Experience**
-#### <span style="color:#ff7597;"> **Data Science Teaching Assistant**
+### <span style="color:#8fbc8f;"> **Teaching Experience**
+#### <span style="color:#8fbc8f;"> **Data Science Teaching Assistant**
 [**Digital House**](https://www.digitalhouse.com/ar){:target="_blank"}. *August 2022 - February 2023*.
 
 I asissted and taught classes at an intensive data science course.
 
-#### <span style="color:#ff7597;"> **Pharmacology Teaching Assistant**
+#### <span style="color:#8fbc8f;"> **Pharmacology Teaching Assistant**
 [**Facultad de Farmacia y Bioquímica, Universidad de Buenos Aires**](https://www.ffyb.uba.ar/){:target="_blank"}. *August 2018 - September 2022*.
 
 As a part of my PhD program, I asissted and taught classes at an the university.
 
-#### <span style="color:#ff7597;"> **Animal Histology and Embriology Teaching Assistant**
+#### <span style="color:#8fbc8f;"> **Animal Histology and Embriology Teaching Assistant**
 [**Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata**](https://www.fcnym.unlp.edu.ar/){:target="_blank"}. *August 2012 - February 2017*.
 
 As a bachelor student, I asissted in classes at my university.
 
 ---
 
-### <span style="color:#ff7597;"> **Volunteer Projects**
-#### <span style="color:#ff7597;"> **csv,conf organiser**
+### <span style="color:#8fbc8f;"> **Volunteer Projects**
+#### <span style="color:#8fbc8f;"> **csv,conf organiser**
 [**csv,conf**](https://csvconf.com/){:target="_blank"}. *June 2022 - ongoing*.
 
 The csv,conf is an international and independent community conference about data sharing and open source.
 
 I led the teams in charge of venue and catering organisation for the last two versions of the conference in Buenos Aires (Argentina, 2023) and Puebla (México, 2024). I participated in multiple tasks from translations to presentation evaluation and general coordination.
 
-#### <span style="color:#ff7597;"> **Team Leader - UN Datathon 2023**
+#### <span style="color:#8fbc8f;"> **Team Leader - UN Datathon 2023**
 [**Festival de datos, UN**](https://unstats.un.org/bigdata/events/2023/un-datathon/){:target="_blank"}. *Noveber 2023*.
 
 I led the group where we developed a project named *"Monitoring Land Use in Biodiversity Hotspots Affected by Forest Loss"* during 3 days of hard work.
@@ -159,7 +169,7 @@ QGIS; and drone images) to train deep learning algorithms to segment and classif
 find flooded areas.
  - [Final presentaion](https://www.fruitpunch.ai/){:target="_blank"}
 
-#### <span style="color:#ff7597;"> **AI for Good Engineer - Coral Reefs**
+#### <span style="color:#8fbc8f;"> **AI for Good Engineer - Coral Reefs**
 [**FruitPunch AI**](https://www.fruitpunch.ai/){:target="_blank"}. *October 2021 - December 2021*.
 
 I developed pipelines for the use of pretrained convolutional neural networks to classify organisms
@@ -169,8 +179,8 @@ biodiversity conservation.
 
 ---
 
-### <span style="color:#ff7597;"> **Education**
-#### <span style="color:#ff7597;"> **PhD in neuroscience** (unfinished)
+### <span style="color:#8fbc8f;"> **Education**
+#### <span style="color:#8fbc8f;"> **PhD in neuroscience** (unfinished)
 [**Facultad de Farmacia y Bioquímica, Universidad de Buenos Aires**](https://www.ffyb.uba.ar/){:target="_blank"}. *September 2017 - November 2023*.
 
 I did my PhD research about the molecular mechanisms of learning and memory in mice. Droped out of the program after 6 years.
